@@ -1,0 +1,26 @@
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.staticwebassets.runtime.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.exe
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.deps.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.runtimeconfig.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.dll
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\ref\Weber State Web Demo.dll
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\bin\Debug\net6.0\Weber State Web Demo.pdb
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.csproj.AssemblyReference.cache
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.AssemblyInfoInputs.cache
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.AssemblyInfo.cs
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.csproj.CoreCompileInputs.cache
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.RazorAssemblyInfo.cache
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.RazorAssemblyInfo.cs
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\scopedcss\bundle\Weber State Web Demo.styles.css
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\scopedcss\projectbundle\Weber State Web Demo.bundle.scp.css
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.dll
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\ref\Weber State Web Demo.dll
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.pdb
+C:\Users\kionk\OneDrive\Documents\Personal Projects\Weber State Web Demo\obj\Debug\net6.0\Weber State Web Demo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Weber State Web Demo/1.0.0": {
+        "runtime": {
+          "Weber State Web Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weber State Web Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
